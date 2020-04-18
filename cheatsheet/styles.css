@@ -1,0 +1,37 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: steelblue;
+}
+
+table {
+    border: 2px solid black;
+    width: 650px;
+    margin: 0 auto;
+  }
+
+thead {
+      background-color: lightsteelblue;
+  
+}
+
+td {
+    border-top: deepskyblue;
+}
+
+
+.selector {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.selector:hover {
+    background-color: powderblue;
+}
